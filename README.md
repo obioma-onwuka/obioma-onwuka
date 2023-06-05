@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @obioma-onwuka
-- 👀 I’m interested in App development
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on App development
+- 👀 I’m interested in Backend development with PHP
+- 🌱 I’m currently learning Laravel
+- 💞️ I’m looking to collaborate on Backend development
 - 📫 How to reach me @obioma-onwuka
 
 <!---
